@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A CS and BUSN Student at USC passionate about exploring new tech!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the1staofamerica" alt="the1staofamerica" /></a> </p>
-
 - 📫 How to reach me **amitkris@usc.edu**
 
 <h3 align="left">Connect with me:</h3>
